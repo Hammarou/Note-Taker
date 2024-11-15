@@ -43,7 +43,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Hammarou/.git
+   git clone https://github.com/Hammarou/Note-Taker.git
    ```
 
 2. Navigate to the application directory:
