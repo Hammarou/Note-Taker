@@ -48,7 +48,7 @@ To run this application locally, follow these steps:
 
 2. Navigate to the application directory:
    ```sh
-   cd note_taker
+   cd note-taker
    ```
 
 3. Install the dependencies:
